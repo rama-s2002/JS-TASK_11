@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(rgb(255, 255, 198), rgb(255, 190, 201));
+    height: 720px;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+table {
+    width: 999px;
+    height: 100px;
+    margin-left: auto;
+    
+}
+.id2 {
+    font-weight: bold;
+    text-align: right;
+    padding-right: 15px;
+}
+
+input[type=text], input[type=number], input[type=password] {
+    width: 50%;
+}
+.id {
+    text-align: right;
+}
+
+div{
+    text-align: center;
+}
+span {
+    color: red;
+}
+.final {
+    background-color: red;
+    width: 100px;
+    border-radius: 10px;
+}
